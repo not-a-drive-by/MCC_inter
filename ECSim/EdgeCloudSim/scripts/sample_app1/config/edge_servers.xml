@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<edge_devices>
+	<datacenter arch="x86" os="Linux" vmm="Xen">
+		<serverID>8001</serverID>
+		<location>
+			<x_pos>0</x_pos>
+			<y_pos>0</y_pos>
+			<wlan_id>0</wlan_id>
+			<attractiveness>0</attractiveness>
+		</location>
+		<host>
+			<core>8</core>
+			<ram>8000</ram>
+			<storage>200000</storage>
+		</host>
+	</datacenter>
+	<datacenter arch="x86" os="Linux" vmm="Xen">
+		<serverID>8002</serverID>
+		<location>
+			<x_pos>0</x_pos>
+			<y_pos>60</y_pos>
+			<wlan_id>0</wlan_id>
+			<attractiveness>0</attractiveness>
+		</location>
+		<host>
+			<core>8</core>
+			<ram>8000</ram>
+			<storage>200000</storage>
+		</host>
+	</datacenter>
+	<datacenter arch="x86" os="Linux" vmm="Xen">
+		<serverID>8003</serverID>
+		<location>
+			<x_pos>60</x_pos>
+			<y_pos>0</y_pos>
+			<wlan_id>0</wlan_id>
+			<attractiveness>0</attractiveness>
+		</location>
+		<host>
+			<core>8</core>
+			<ram>8000</ram>
+			<storage>200000</storage>
+		</host>
+	</datacenter>
+	<datacenter arch="x86" os="Linux" vmm="Xen">
+		<serverID>8004</serverID>
+		<location>
+			<x_pos>60</x_pos>
+			<y_pos>60</y_pos>
+			<wlan_id>0</wlan_id>
+			<attractiveness>0</attractiveness>
+		</location>
+		<host>
+			<core>8</core>
+			<ram>8000</ram>
+			<storage>200000</storage>
+		</host>
+	</datacenter>
+	<datacenter arch="x86" os="Linux" vmm="Xen">
+		<serverID>8005</serverID>
+		<location>
+			<x_pos>30</x_pos>
+			<y_pos>30</y_pos>
+			<wlan_id>0</wlan_id>
+			<attractiveness>0</attractiveness>
+		</location>
+		<host>
+			<core>8</core>
+			<ram>8000</ram>
+			<storage>200000</storage>
+		</host>
+	</datacenter>
+</edge_devices>
